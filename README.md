@@ -1,5 +1,4 @@
 # Habissu
-Latian
 <!DOCTYPE html>
 <html>
   <head>
